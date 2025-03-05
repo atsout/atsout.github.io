@@ -1,1 +1,9 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/atsout
+  - name: Projects
+    icon: <i class="fa-solid fa-ghost"></i>
+    link: ./projects
