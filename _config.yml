@@ -2,4 +2,4 @@ title: Adeline Southard
 #logo: /assets/img/me_img.png
 #description: text below image
 show_downloads: false
-remote_theme: BDHU/minimalist
+theme: jekyll-theme-minimal
