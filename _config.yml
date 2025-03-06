@@ -2,7 +2,7 @@ title: Adeline Southard
 logo: /assets/img/logo.jpg
 email: atsout@hotmail.com
 description: Data Science MS Graduate
-favicon: false
+#favicon: true
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: dark
 
