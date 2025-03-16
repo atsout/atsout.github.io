@@ -3,9 +3,13 @@ layout: default
 ---
 ## About Me:
 
-I am Adeline, a recent data science graduate. I received a BS in Biology from the University of Massachusetts Amherst and then went on to get a MS in Complex Systems & Data Science from the University of Vermont. 
+I'm Adeline, a recent data science MS graduate!
 
-I have experience with Python, C++, R, and PL/SQL. 
+I studied biology as an undergraduate at the University of Massachusetts Amherst and, while working with electron microscopy data, I became interested in data science for the purposes of image analysis. I then pursued an MS in Complex Systems & Data Science at the University of Vermont. Given these combined interests, my main interest is to continue to leverage data science methods to analyze biological data in meaningful ways in my work.
+
+Throughout the course of my work and studies, I have developed skills in C++, Python, and R as well as software like ImageJ. I also have experience in the laboratory with sample preparation and electron microscopy. In my MS program, I had the opportunity to work on many projects (which can be found [here](./projects)) with practical applications that gave me experience with data analysis and visualization, machine learning, and neural networks.
+
+I'm passionate about combining my laboratory background and computer science skills to make a difference in the world.
 
 ---
 
@@ -36,6 +40,27 @@ GPA: 3.57
 
 ---
 
+## Work Experience:
+
+<h3 style="margin-bottom:2px;">Electron Microscopy Core Facility, Amherst MA</h3>
+<p style="margin:0;"><b>Laboratory Intern</b><br>
+June 2022 - May 2023</p>
+<ul style="margin-left: -1.4em;">
+  <li>Wrote software using the OpenCV library in C++ for the purposes of filtering, identifying, collecting, and analyzing data in electron microscope images.</li>
+  <li>Prepared samples for scanning and transmission electron microscopes and used associated ThermoFisher software to operate microscopes.</li>
+  <li>Used ImageJ software for image analysis.</li>
+</ul>
+
+<h3 style="margin-bottom:2px;">Katz Lab, Amherst MA</h3>
+<p style="margin:0;"><b>Research Assistant</b><br>
+September 2021 - May 2022</p>
+<ul style="margin-left: -1.4em;">
+  <li>Used VAST Lite software to analyze electron microscopy images.</li>
+  <li>Collaborated with a team towards creating a brain connectome for \textit{Berghia stephanieae} ganglia tissue.</li>
+</ul>
+
+---
+
 ## Publications:
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.2c00740">Reimagining Hair Science: A New Approach to Classify Curly Hair Phenotypes via New Quantitative Geometric and Structural Mechanical Parameters</a></h3>
@@ -44,6 +69,6 @@ Accounts of Chemical Research.<br>
 Volume 56, Issue 11<br>
 Doi: <a href="https://doi.org/10.1021/acs.accounts.2c00740">https://doi.org/10.1021/acs.accounts.2c00740</a></p>
 <ul style="margin-left: -1.4em;">
-  <li>Assisted in sample preparation.</li>
-  <li>Assisted in SEM operation for data collection.</li>
+  <li>Worked on sample preparation.</li>
+  <li>Worked on SEM operation for data collection.</li>
 </ul>
