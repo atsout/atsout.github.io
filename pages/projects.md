@@ -7,6 +7,15 @@ permalink: /projects
 ## Projects:
 
 <div class="card">
+  <h3>CubeFinder - Shape Identification in SEM Images</h3>
+  <ul>
+    <li>Filters, identifies, and measures retangular objects in noisy images using OpenCV.</li>
+    <li>Organizes collected data into a preferred file format (xlsx).</li>
+  </ul>
+  <a href="https://github.com/atsout/CubeFinder"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>National Vehicle Crashes & Daylight Savings Time</h3>
   <ul>
     <li>Investigated whether the Spring transition to daylight savings time has an impact on fatal car crashes in the United States.</li>
@@ -47,7 +56,7 @@ permalink: /projects
 </div>
 
 <div class="card">
-  <h3>Library Management System Database in PL/SQL</h3>
+  <h3>Library Management System in PL/SQL</h3>
   <ul>
     <li>Created conceptual and relational schemas that represent and organize a library management system database.</li>
     <li>Implemented the system using PL/SQL that handles resources, check-outs, due dates, event programming, etc.</li>
