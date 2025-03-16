@@ -56,7 +56,7 @@ June 2022 - May 2023</p>
 September 2021 - May 2022</p>
 <ul style="margin-left: -1.4em;">
   <li>Used VAST Lite software to analyze electron microscopy images.</li>
-  <li>Collaborated with a team towards creating a brain connectome for \textit{Berghia stephanieae} ganglia tissue.</li>
+  <li>Collaborated with a team towards creating a brain connectome for <i>Berghia stephanieae</i> ganglia tissue.</li>
 </ul>
 
 ---
