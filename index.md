@@ -4,15 +4,15 @@ layout: default
 
 ## About Me:
 
-I'm Adeline, a data science masters student graduating in May 2025.
+I'm Adeline, a Data Science Masters student, graduating in May 2025.
 
-I studied biology as an undergraduate at the University of Massachusetts Amherst. There, in addition to my studies, I worked in the Electron Microscopy Core Facility where I participated in research that utilized both transmission and scanning electron microscopy. This work involved sample preparation, operation of the equipment and software, and ultimately development of image analysis software.
+I majored in Biology as an undergraduate at the University of Massachusetts Amherst. In addition to my studies, I worked in the Electron Microscopy Core Facility where I participated in research that utilized both transmission and scanning electron microscopy. This work involved sample preparation, operation of the equipment and software, and ultimately development of image analysis software.
 
-My experience at the lab, particularly developing software tools to automate identification of features in the image data (eliminating a tedious manual process), led me to become interested in data science. I then pursued an MS in Complex Systems & Data Science at the University of Vermont. My goal is to continue to leverage data science techniques to extract meaning from data.
+My experience at the lab, particularly developing software tools to automate identification of features in the image data (eliminating a tedious manual process), led me to become interested in Data Science. I went on to pursue a Masters in Complex Systems & Data Science at the University of Vermont with a goal of leveraging data science techniques to extract meaning from data.
 
-Throughout the course of my work and studies, I have gained hands-on skills (eg. sample preparation and scanning electron microscope operation), software skills (eg. ImageJ and VAST Lite), and programming skills (eg. Python, C++ and R). A sampling of the projects that I worked on are described [here](./projects). My resume can be found [here](https://github.com/atsout/MyProjects/blob/main/resume.pdf).
+Throughout the course of my work and studies, I have gained hands-on skills (eg. sample preparation and scanning electron microscope operation), software skills (eg. ImageJ and VAST Lite), and programming skills (eg. Python, C++ and R). A sampling of the projects that I have worked on are described [here](./projects). My resume can be found [here](https://github.com/atsout/MyProjects/blob/main/resume.pdf).
 
-I'm passionate about combining my laboratory and data science skills to extract meaningful insights from data.
+I'm passionate about combining my interest in biological sciences, laboratory experience, and data science skills to make a valuable impact.
 
 ---
 
