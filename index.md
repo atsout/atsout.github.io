@@ -75,3 +75,9 @@ Doi: <a href="https://doi.org/10.1021/acs.accounts.2c00740">https://doi.org/10.1
   <li>Worked on sample preparation.</li>
   <li>Worked on SEM operation for data collection.</li>
 </ul>
+
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://journals.asm.org/doi/10.1128/mra.00849-22">Genome Sequences of Microbacterium foliorum Phages Anseraureola, Pondwater, and Yasuo</a></h3>
+<p style="margin:0;"><b>David Bamgbowu, ..., Adeline Southard, <i>et al</i>.</b><br>
+Microbiol Resour Announc.<br>
+11:e00849-22.<br>
+Doi: <a href="https://doi.org/10.1128/mra.00849-22">https://doi.org/10.1128/mra.00849-22</a></p>
