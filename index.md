@@ -32,11 +32,11 @@ GPA: 3.57
 
 ## Skills:
 
+<h4 style="margin-bottom:2px; margin-top:2px;">Laboratory Experience:</h4>
+<p style="margin-bottom:4px;">&#x2022; Scanning and Transmission Electron Microscope Sample Preparation &#x2022; Scanning Electron Microscope Operation &#x2022; Analysis of Electron Microscope Imagery</p>
+
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
 <p style="margin-bottom:4px;">&#x2022; Python &#x2022; C++ &#x2022; R &#x2022; PL/SQL</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Laboratory Experience:</h4>
-<p style="margin-bottom:4px;">&#x2022; Sample Preparation &#x2022; Scanning Electron Microscope Operation &#x2022; Image Analysis of Scanning and Transmission Electron Microscope Imagery</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Other Skills:</h4>
 <p style="margin-bottom:4px;">&#x2022; LaTeX document preparation &#x2022; Markdown &#x2022; Jupyter Notebook</p>
