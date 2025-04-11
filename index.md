@@ -20,7 +20,7 @@ I'm passionate about combining my interest in biological sciences, laboratory ex
 
 <h3 style="margin-bottom:2px;">Master of Science, Complex Systems & Data Science</h3>
 <h4 style="margin:0;">University of Vermont</h4>
-August 2023 - Current\
+August 2023 - May 2025\
 GPA: 3.50
 
 <h3 style="margin-bottom:2px;">Bachelors of Science, Biology</h3>
