@@ -4,7 +4,7 @@ layout: default
 
 ## About Me:
 
-I'm Adeline, a Data Science Masters student, graduating in May 2025.
+I'm Adeline, a Data Science Masters student graduating in May 2025, searching for my first post-graduate job.
 
 I majored in Biology as an undergraduate at the University of Massachusetts Amherst. In addition to my studies, I worked in the Electron Microscopy Core Facility where I participated in research that utilized both transmission and scanning electron microscopy. This work involved sample preparation, operation of the equipment and software, and ultimately development of image analysis software.
 
