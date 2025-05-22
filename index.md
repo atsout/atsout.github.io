@@ -4,15 +4,27 @@ layout: default
 
 ## About Me:
 
-I'm Adeline, a Data Science Masters student graduating in May 2025, searching for my first post-graduate job.
+I'm Adeline, a Data Science Masters graduate, searching for my first post-graduate job.
 
 I majored in Biology as an undergraduate at the University of Massachusetts Amherst. In addition to my studies, I worked in the Electron Microscopy Core Facility where I participated in research that utilized both transmission and scanning electron microscopy. This work involved sample preparation, operation of the equipment and software, and ultimately development of image analysis software.
 
 My experience at the lab, particularly developing software tools to automate identification of features in the image data (eliminating a tedious manual process), led me to become interested in Data Science. I went on to pursue a Masters in Complex Systems & Data Science at the University of Vermont with a goal of leveraging data science techniques to extract meaning from data.
 
-Throughout the course of my work and studies, I have gained hands-on skills (eg. sample preparation and scanning electron microscope operation), software skills (eg. ImageJ and VAST Lite), and programming skills (eg. Python, C++ and R). A sampling of the projects that I have worked on are described [here](./projects). My resume can be found [here](https://github.com/atsout/MyProjects/blob/main/resume.pdf).
+Throughout the course of my work and studies, I have gained hands-on skills (eg. sample preparation and scanning electron microscope operation), software skills (eg. ImageJ), and programming skills (eg. Python, C++ and R). A sampling of the projects that I have worked on are described [here](./projects).
 
 I'm passionate about combining my interest in biological sciences, laboratory experience, and data science skills to make a valuable impact.
+
+---
+
+# Technical skills
+<h3 style="margin-bottom:2px;">Programming Languages:</h3>
+<p style="margin:0;">Python, C++, R, PL/SQL</p>
+
+<h3 style="margin-bottom:2px;">Software:</h3>
+<p style="margin:0;">Git, LaTeX, Markdown, Jupyter Notebook, ImageJ</p>
+
+<h3 style="margin-bottom:2px;">Laboratory:</h3>
+<p style="margin:0;">Cell Culture, Microtome, Scanning Electron Microscopy, SEM/TEM Image Analysis</p>
 
 ---
 
@@ -45,22 +57,58 @@ GPA: 3.57
 
 ## Work Experience:
 
-<h3 style="margin-bottom:2px;">Electron Microscopy Core Facility, Amherst MA</h3>
-<p style="margin:0;"><b>Laboratory Intern</b><br>
-June 2022 - May 2023</p>
+<h3 style="margin-bottom:2px;">Data Science Intern</h3>
+<p style="margin:0;"><b>The Joint Lab - University of Vermont, VT</b><br>
+May 2024 - August 2024</p>
 <ul style="margin-left: -1.4em;">
-  <li>Wrote software using the OpenCV library in C++ for the purposes of filtering, identifying, collecting, and analyzing data in scanning and transmission electron microscope images.</li>
-  <li>Prepared samples for scanning and transmission electron microscopes and used associated ThermoFisher software to operate microscopes.</li>
-  <li>Used ImageJ software for image analysis.</li>
+  <li>Worked in a team of data scientists on hospital <i>C. diff</i> illness data.</li>
+  <li>Prepared and cleaned data.</li>
+  <li>Used statistical and machine learning methods to analyze the spread of \textit{C. diff} through a hospital environment.</li>
 </ul>
 
-<h3 style="margin-bottom:2px;">Katz Lab, Amherst MA</h3>
-<p style="margin:0;"><b>Research Assistant</b><br>
+<h3 style="margin-bottom:2px;">Laboratory Intern</h3>
+<p style="margin:0;"><b>Electron Microscopy Core Facility - University of Massachusetts Amherst, MA</b><br>
+June 2022 - May 2023</p>
+<ul style="margin-left: -1.4em;">
+  <li>Designed and wrote software that filtered, identified, and analyzed a large EM visual dataset, saving significant time/money for the research team.</li>
+  <li>Prepared scanning and transmission electron microscope samples using sample embedding and microtomes.</li>
+  <li>Assisted in microscope operation.</li>
+</ul>
+
+<h3 style="margin-bottom:2px;">Laboratory Intern</h3>
+<p style="margin:0;"><b>Katz Lab - University of Massachusetts Amherst, MA</b><br>
 September 2021 - May 2022</p>
 <ul style="margin-left: -1.4em;">
   <li>Used VAST Lite software to analyze electron microscopy images.</li>
+  <li>Performed manual data annotation to mark errors in EM images.</li>
   <li>Collaborated with a team towards creating a brain connectome for <i>Berghia stephanieae</i> ganglia tissue.</li>
 </ul>
+
+---
+
+## Projects:
+
+<div class="card">
+  <h3>Bacteria Growth & Survival Modeling Using Cellular Automata</h3>
+  <ul>
+    <li>Used cellular automata to model bacteria in a competitive environment with limited resources.</li>
+    <li>Measured complexity of the system as a metric for suvival/death behavior.</li>
+    <li>Explored the differences between stochastic and deterministic versions of the system.</li>
+  </ul>
+  <a href="https://github.com/atsout/MyProjects/blob/main/Bacteria_Growth_Modeling.pdf"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>A Comparison of Training Neural Networks Using Evolutionary Algorithms versus Gradient Descent.</h3>
+  <ul>
+    <li>Implemented stochastic gradient descent with momentum and evolutionary algorithms as methods for training neural networks for character classification on the MNIST dataset.</li>
+    <li>Used parameter optimization to create the best results for both methods.</li>
+    <li>Evaluated the performance of each method pertaining to time-to-convergence and network accuracy.</li>
+  </ul>
+  <a href="https://github.com/atsout/MyProjects/blob/main/Training_Neural_Networks.pdf"><span class="card-link-spanner"></span></a>
+</div>
+
+Further projects I have worked on can be found [here](./projects).
 
 ---
 
