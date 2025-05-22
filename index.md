@@ -51,7 +51,7 @@ May 2024 - August 2024</p>
 <ul style="margin-left: -1.4em;">
   <li>Worked in a team of data scientists on hospital <i>C. diff</i> illness data.</li>
   <li>Prepared and cleaned data.</li>
-  <li>Used statistical and machine learning methods to analyze the spread of \textit{C. diff} through a hospital environment.</li>
+  <li>Used statistical and machine learning methods to analyze the spread of <i>C. diff</i> through a hospital environment.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">Laboratory Intern</h3>
