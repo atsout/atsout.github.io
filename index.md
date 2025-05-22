@@ -16,18 +16,6 @@ I'm passionate about combining my interest in biological sciences, laboratory ex
 
 ---
 
-# Technical skills
-<h3 style="margin-bottom:2px;">Programming Languages:</h3>
-<p style="margin:0;">Python, C++, R, PL/SQL</p>
-
-<h3 style="margin-bottom:2px;">Software:</h3>
-<p style="margin:0;">Git, LaTeX, Markdown, Jupyter Notebook, ImageJ</p>
-
-<h3 style="margin-bottom:2px;">Laboratory:</h3>
-<p style="margin:0;">Cell Culture, Microtome, Scanning Electron Microscopy, SEM/TEM Image Analysis</p>
-
----
-
 ## Education:
 
 <h3 style="margin-bottom:2px;">Master of Science, Complex Systems & Data Science</h3>
@@ -42,16 +30,16 @@ GPA: 3.57
 
 ---
 
-## Skills:
+## Technical skills:
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Laboratory Experience:</h4>
-<p style="margin-bottom:4px;">&#x2022; Scanning and Transmission Electron Microscope Sample Preparation &#x2022; Scanning Electron Microscope Operation &#x2022; Analysis of Electron Microscope Imagery</p>
+<h3 style="margin-bottom:2px;">Programming Languages:</h3>
+<p style="margin:0;">Python, C++, R, PL/SQL</p>
 
-<h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C++ &#x2022; R &#x2022; PL/SQL</p>
+<h3 style="margin-bottom:2px;">Software:</h3>
+<p style="margin:0;">Git, LaTeX, Markdown, Jupyter Notebook, ImageJ</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Other Skills:</h4>
-<p style="margin-bottom:4px;">&#x2022; LaTeX document preparation &#x2022; Markdown &#x2022; Jupyter Notebook</p>
+<h3 style="margin-bottom:2px;">Laboratory:</h3>
+<p style="margin:0;">Cell Culture, Microtome, Scanning Electron Microscopy, SEM/TEM Image Analysis</p>
 
 ---
 
